@@ -1,0 +1,5 @@
+C:\Dany\DemoProjects\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe
+C:\Dany\DemoProjects\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.pdb
+C:\Dany\DemoProjects\CSharpDemos\CSharpDemos\obj\Debug\ResolveAssemblyReference.cache
+C:\Dany\DemoProjects\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.exe
+C:\Dany\DemoProjects\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.pdb

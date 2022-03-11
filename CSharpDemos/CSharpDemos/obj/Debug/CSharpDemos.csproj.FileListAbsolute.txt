@@ -1,0 +1,16 @@
+E:\POCs\DemoProjects\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.exe
+E:\POCs\DemoProjects\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.pdb
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe.config
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.pdb
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.csprojAssemblyReference.cache
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.csproj.CoreCompileInputs.cache
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.exe
+D:\CSharpDemos-20200903T062200Z-001\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.pdb
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe.config
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.exe
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\bin\Debug\CSharpDemos.pdb
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.csprojAssemblyReference.cache
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.csproj.CoreCompileInputs.cache
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.exe
+D:\R&D\Repos\Demos\CSharpDemos\CSharpDemos\obj\Debug\CSharpDemos.pdb
